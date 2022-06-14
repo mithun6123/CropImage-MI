@@ -33,7 +33,13 @@ pip install torchfcn
 ```
 
 
-#Results
+## Results
+
+<img src=".readme/imagesegmentation.png" width="30%" />
+<img src=".readme/result.png" width="30%" />
+
+Image croper Results
+
 
 
 
